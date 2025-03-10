@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFigura3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3C813-CD61-4046-8598-5EBAD3407BAD}|libFigura3D\\libFigura3D.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\app_2\\figuras_practica2\\libfigura3d\\libfigura3d\\clsfigura3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3C813-CD61-4046-8598-5EBAD3407BAD}|libFigura3D\\libFigura3D.csproj|solutionrelative:libfigura3d\\clsfigura3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsFigura3D.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFigura3D\\libFigura3D\\clsFigura3D.cs",
+              "RelativeDocumentMoniker": "libFigura3D\\clsFigura3D.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFigura3D\\libFigura3D\\clsFigura3D.cs",
+              "RelativeToolTip": "libFigura3D\\clsFigura3D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:38:54.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

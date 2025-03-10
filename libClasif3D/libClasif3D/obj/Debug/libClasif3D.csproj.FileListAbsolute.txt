@@ -1,0 +1,9 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\bin\Debug\libClasif3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\bin\Debug\libClasif3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\bin\Debug\libFigura3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\bin\Debug\libFigura3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\obj\Debug\libClasif3D.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\obj\Debug\libClasif3D.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\obj\Debug\libClasi.8725182F.Up2Date
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\obj\Debug\libClasif3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libClasif3D\libClasif3D\obj\Debug\libClasif3D.pdb
