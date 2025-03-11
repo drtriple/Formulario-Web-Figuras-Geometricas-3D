@@ -1,0 +1,11 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libClasif3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libFigura3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libClasif3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\bin\Debug\libFigura3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFigur.5D52890D.Up2Date
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.pdb

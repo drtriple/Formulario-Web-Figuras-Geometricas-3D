@@ -34,6 +34,9 @@
     <Reference Include="libClasif3D">
       <HintPath>..\..\libClasif3D\libClasif3D\bin\Debug\libClasif3D.dll</HintPath>
     </Reference>
+    <Reference Include="libFigura3D">
+      <HintPath>..\..\libFigura3D\libFigura3D\bin\Debug\libFigura3D.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,7 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="clsCubo.cs" />
     <Compile Include="clsEsfera.cs" />
+    <Compile Include="clsPrismaRect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
