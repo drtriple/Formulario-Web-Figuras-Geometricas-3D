@@ -8,5 +8,6 @@ namespace libClasif3D
 {
     public class clsClasif3D
     {
+
     }
 }

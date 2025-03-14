@@ -72,3 +72,89 @@ D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\obj\Debug\WebApp.csproj.Up2Date
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\obj\Debug\WebApp.dll
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\WebApp.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\obj\Debug\WebApp.csproj.Up2Date
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libClasif3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libFigura3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libFiguras3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libClasif3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libFigura3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\WebApp\WebApp\bin\libFiguras3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libClasif3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libFigura3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libFiguras3D.dll
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libClasif3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libFigura3D.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\WebApp\WebApp\bin\libFiguras3D.pdb

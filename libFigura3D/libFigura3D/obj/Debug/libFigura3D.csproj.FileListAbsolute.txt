@@ -4,3 +4,9 @@ D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFig
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFigura3D\libFigura3D\obj\Debug\libFigura3D.csproj.CoreCompileInputs.cache
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFigura3D\libFigura3D\obj\Debug\libFigura3D.dll
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFigura3D\libFigura3D\obj\Debug\libFigura3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\bin\Debug\libFigura3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\bin\Debug\libFigura3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\obj\Debug\libFigura3D.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\obj\Debug\libFigura3D.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\obj\Debug\libFigura3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFigura3D\libFigura3D\obj\Debug\libFigura3D.pdb

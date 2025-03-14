@@ -44,6 +44,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="libClasif3D">
+      <HintPath>..\..\libClasif3D\libClasif3D\bin\Debug\libClasif3D.dll</HintPath>
+    </Reference>
+    <Reference Include="libFigura3D">
+      <HintPath>..\..\libFigura3D\libFigura3D\bin\Debug\libFigura3D.dll</HintPath>
+    </Reference>
+    <Reference Include="libFiguras3D">
+      <HintPath>..\..\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />

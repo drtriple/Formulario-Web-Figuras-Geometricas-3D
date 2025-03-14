@@ -10,10 +10,35 @@ namespace libFiguras3D
 {
     public class clsCubo : clsRegular
     {
-        public clsCubo() { fltLadoA = 0; fltArea = 0; fltVolumen = 0; strError = ""; }
+        #region Constructores Sobrecargados
+        public clsCubo() { 
+            fltLadoA = 0;
+            fltArea = 0; 
+            fltVolumen = 0; 
+            strError = string.Empty; 
+        }
 
-        private bool Validar() => fltLadoA > 0;
+        public clsCubo(float _LadoA) { 
+            fltLadoA = _LadoA; 
+            fltArea = 0; 
+            fltVolumen = 0;
+            strError = string.Empty; 
+        }
+        #endregion
 
+        #region Metodos Privados
+        private bool Validar()
+        {
+            if (fltLadoA < 0)
+            {
+                strError = " Lado A no Válido";
+                return false;
+            }
+            return true;
+        }
+        #endregion
+
+        #region Metodos Publicos - Polimorfismo
         public override bool hallarArea()
         {
             if (!Validar()) return false;
@@ -27,5 +52,6 @@ namespace libFiguras3D
             fltVolumen = fltLadoA * fltLadoA * fltLadoA;
             return true;
         }
+        #endregion
     }
 }

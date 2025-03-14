@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\app_2\\figuras_practica2\\libfiguras3d\\libfiguras3d\\clsprismarect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|solutionrelative:libfiguras3d\\clsprismarect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\app_2\\figuras_practica2\\libfiguras3d\\libfiguras3d\\clsesfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|solutionrelative:libfiguras3d\\clsesfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\app_2\\figuras_practica2\\libfiguras3d\\libfiguras3d\\clscubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libfiguras3d\\clscubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|solutionrelative:libfiguras3d\\clscubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\app_2\\figuras_practica2\\libfiguras3d\\libfiguras3d\\clsesfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|solutionrelative:libfiguras3d\\clsesfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libfiguras3d\\clsprismarect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66329C3C-9FCD-49C6-8945-C11D01C4CFF7}|libFiguras3D\\libFiguras3D.csproj|solutionrelative:libfiguras3d\\clsprismarect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "clsPrismaRect.cs",
               "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libFiguras3D\\clsPrismaRect.cs",
               "RelativeDocumentMoniker": "libFiguras3D\\clsPrismaRect.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libFiguras3D\\clsPrismaRect.cs",
               "RelativeToolTip": "libFiguras3D\\clsPrismaRect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T01:38:10.115Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "libFiguras3D\\clsCubo.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libFiguras3D\\clsCubo.cs",
               "RelativeToolTip": "libFiguras3D\\clsCubo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T01:37:21.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "clsEsfera.cs",
               "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libFiguras3D\\clsEsfera.cs",
               "RelativeDocumentMoniker": "libFiguras3D\\clsEsfera.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\app_2\\figuras_Practica2\\libFiguras3D\\libFiguras3D\\clsEsfera.cs",
               "RelativeToolTip": "libFiguras3D\\clsEsfera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T04:22:20.159Z",
               "EditorCaption": ""

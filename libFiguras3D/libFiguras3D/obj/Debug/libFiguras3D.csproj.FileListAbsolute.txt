@@ -9,3 +9,14 @@ D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFig
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFigur.5D52890D.Up2Date
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.dll
 D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\app_2\figuras_Practica2\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libClasif3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libFigura3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libClasif3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\bin\Debug\libFigura3D.pdb
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\obj\Debug\libFigur.5D52890D.Up2Date
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.dll
+C:\Users\salak406\Documents\Programacion de software\Formulario-Web-Figuras-Geometricas-3D-main\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.pdb

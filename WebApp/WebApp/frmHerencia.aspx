@@ -13,8 +13,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
     <style>
         body {
-            height: 989px;
-            width: 653px;
             font-family: Arial, sans-serif;
             background-color: #f8f9fa;
             text-align: center;
@@ -57,7 +55,7 @@
             <div class="text-center mt-3">
                 <asp:Image ID="imgFigura" runat="server" ImageUrl="~/imagenes/Sphere.jpg" CssClass="img-fluid" />
                 <br />
-                <asp:Label ID="lblMsj" runat="server" Text="Imagen"></asp:Label>
+                <asp:Label ID="lblMsj" runat="server" Text="Mensaje"></asp:Label>
             </div>
 
             <div id="pnlEsfera" class="panel" runat="server">

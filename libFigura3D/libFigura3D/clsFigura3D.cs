@@ -15,15 +15,6 @@ namespace libFigura3D
         protected string strError;
         #endregion
 
-        #region Constructor
-        public clsFigura3D()
-        {
-            fltArea = 0;
-            fltVolumen = 0;
-            strError = string.Empty;
-        }
-        #endregion
-
         #region Propiedades
         public float Area
         {
